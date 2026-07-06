@@ -201,13 +201,14 @@ header h1 {
 }
 
 .menu-item.cappuccino{
-    background-image: url('imges/cappuccino.jpg');
+    background-image: url('imges/Cappuccino.jpg');
     background-size: cover;
     background-position: center;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.4);
     transition: transform 0.3s ease;
+    
 }
 
 .menu-item.cappuccino:hover{
@@ -225,7 +226,7 @@ header h1 {
 }
 
 .menu-item.macchiato{
-    background-image: url('imges/macchiato.jpg');
+    background-image: url('imges/Macchiato.jpg');
     background-size: cover;
     background-position: center;
     padding: 20px;
@@ -306,7 +307,7 @@ header h1 {
 
 .menu-item.latte:hover{
     transform: translateY(-5px);
-    
+
 }
 
 .menu-item:hover{
