@@ -235,7 +235,7 @@ header h1 {
 }
 
 .menu-item.flat-white{
-    background-image: url('imges/Flat White.jpg');
+    background-image: url('imges/Flat-White.jpg');
     background-size: contain;
     background-position: center;
     padding: 20px;
@@ -265,7 +265,7 @@ header h1 {
 }
 
 .menu-item.chai-latte{
-    background-image: url('imges/Chai\ Latte.jpg');
+    background-image: url('imges/Chai-Latte.jpg');
     background-size: contain;
     background-position: center;
     padding: 20px;
@@ -275,7 +275,7 @@ header h1 {
 }
 
 .menu-item.hot-chocolate{
-    background-image: url('imges/Hot Chocolate.jpg');
+    background-image: url('imges/Hot-Chocolate.jpg');
     background-size: contain;
     background-position: center;
     padding: 20px;
@@ -295,7 +295,7 @@ header h1 {
 }
 
 .menu-item.irish-coffee{
-    background-image: url('imges/Irish Coffee.jpg');
+    background-image: url('imges/Irish-coffee.jpg');
     background-size: contain;
     background-position: center;
     padding: 20px;
